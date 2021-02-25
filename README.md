@@ -1,5 +1,5 @@
 This dataset contains the local responses of target meta-atoms while accounting for the influences of their neighbors:
-![image](https://github.com/SensongAn/Metasurface-mutual-coupling/blob/main/pics/coupling_demo.jpg)
+![image](https://github.com/SensongAn/Metasurface-mutual-coupling/blob/main/pics/coupling_demo.png)
 
 Please cite our paper (https://arxiv.org/abs/2102.01761) if you are using this dataset.
 
