@@ -1,7 +1,7 @@
 The input parameters, simulation environment and results are defined below:  
 Please cite our paper (https://arxiv.org/abs/2102.01761) if you are using this dataset.
 
-# Rectangular shaped meta-atoms
+# Rectangular-shaped meta-atoms
 
 -   **Material:** The meta-atoms are constructed with silicon (n=1.67) nanoblocks on top of fused silica (n=1.45) substrate.
 
@@ -21,12 +21,12 @@ Please cite our paper (https://arxiv.org/abs/2102.01761) if you are using this d
     in commercial simulation package CST MICROWAVE STUDIO.
 
 -   **Result:** Real parts and imaginary parts of the transmission spectra of
-    each meta-atom are included in the “real_part” and “imaginary_part” matrix, respectively.
+    the target meta-atoms are included in the “real_part” and “imaginary_part” matrix, respectively.
     
     ![image](https://github.com/SensongAn/Metasurface-mutual-coupling/blob/main/pics/coupling_rectangle.jpg)
     
     
-    # Freeform shaped meta-atoms
+    # Freeform-shaped meta-atoms
 
 -   **Material:** The meta-atoms are constructed with high index (n=5) nanoblocks on top of low index (n=1.4) substrate.
 
@@ -46,6 +46,6 @@ Please cite our paper (https://arxiv.org/abs/2102.01761) if you are using this d
     in commercial simulation package CST MICROWAVE STUDIO.
 
 -   **Result:** Real parts and imaginary parts of the transmission spectra of
-    each meta-atom are included in the “real_part” and “imaginary_part” matrix, respectively.
+    the target meta-atoms are included in the “real_part” and “imaginary_part” matrix, respectively.
     
     ![image](https://github.com/SensongAn/Metasurface-mutual-coupling/blob/main/pics/coupling_freeform.jpg)
