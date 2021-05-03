@@ -75,4 +75,4 @@ Please cite our paper (https://arxiv.org/abs/2102.01761) if you are using this d
 -   **Result:** Real parts and imaginary parts of the transmission spectra of
     the target meta-atoms are included in the “real_part” and “imaginary_part” matrix, respectively.
     
-    ![image](https://github.com/SensongAn/Metasurface-mutual-coupling/blob/main/pics/coupling_freeform_2D.jpg)
+    ![image](https://github.com/SensongAn/Metasurface-mutual-coupling/blob/main/pics/coupling_freeform_2D1.jpg)
